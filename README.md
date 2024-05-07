@@ -55,4 +55,11 @@ The code for this project includes OpenGL functions and user-defined functions f
 
 ## Output/Screen Shots
 Screenshots or output images of the 3D house architecture visualization can be included here to showcase the project's visual results.
+![Main_Door](https://github.com/rohanthakur336/3D_House_Tour_OpenGL/blob/main/main_door.jpeg)
+
+![Living Room](https://github.com/rohanthakur336/3D_House_Tour_OpenGL/blob/main/living_room.jpeg)
+
+![Kitchen](https://github.com/rohanthakur336/3D_House_Tour_OpenGL/blob/main/kitchen.jpeg)
+
+![Main_Room](https://github.com/rohanthakur336/3D_House_Tour_OpenGL/blob/main/main_room.jpeg)
 
